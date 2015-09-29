@@ -13,7 +13,7 @@
 ### Removed
 
 ### Changed
-- sequenceiq/cloudbreak image updated to 1.0.3
+- sequenceiq/cloudbreak image updated to 1.0.4
 
 - debug() function made multiline capable. Use \n in messages
 - refactor bridge ip discovery to run helper docker command only once
